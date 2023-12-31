@@ -1,0 +1,7 @@
+homepage_url="https://www.test.com"
+country="kr"
+id="it_is_scret"
+id_only="real-testcafe"
+password="it_is_scret"
+env="real"
+mail_server="http://mail-server:8080/"
